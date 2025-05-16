@@ -17,10 +17,12 @@
 - JavaScript
 
 ## How to Use
-
 1. Enter your name, height (in cm), and weight (in kg).
 2. Click on **Calculate** to see your health status.
 3. Use **Reset** to clear the fields and try again
+ 
+## Live Demo
+[Click here to view the live demo](https://vasavi37.github.io/Hospital-HealthCheck/)
 
 ## License
 
